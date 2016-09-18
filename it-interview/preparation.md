@@ -89,6 +89,17 @@ Redis数据类型 主从复制 事务 管道 持久化（RDB AOF）Redis的Demo 
 祝，身体健康，工作顺利！
 
 
+英文推荐
+--------
+
+Solid basic knowledge of mathematics and algorithm, won the second prize of national mathematical contest in modeling.
+
+Keen on high performance high available Java server-side development.
+
+Internship in April 2016 up to now in hangzhou institute of netease, jobs is also a server-side development.
+
+Good communication skills, clearly and accurately convey ideas with the team members, positive and energetic person, full of curiosity, self-driven, always maintain a positive attitude to meet all of the unknown.
+
 实习经历
 --------
 
